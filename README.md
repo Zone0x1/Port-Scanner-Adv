@@ -13,7 +13,7 @@
 
     chmod +x Port-Scanner-Adv
 
-    python3 Port-Scanner-Adv.py
+    python3 Port-Scanner-Adv.py -o "Enter IP" -p "Enter Ports For Scanner"
 
 #in Windows
 
